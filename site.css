@@ -1,0 +1,156 @@
+@keyframes anima {
+    from {
+        transform: translateX(-300px); 
+    } 
+    to {
+        transform: translateX(0px); 
+    }
+} 
+.tausta1 {
+    background-color: white; 
+    width: 3000px; 
+    height: 2000px; 
+} 
+.a1 {
+    animation-name: anima; 
+    animation-iteration-count: 1; 
+    animation-duration: 2s; 
+    color: black; 
+    transition: 2s; 
+    opacity: 1; 
+    font-size: 150px; 
+} 
+.a1:hover {
+    color: blue; 
+} 
+.a2 {
+    animation-name: anima; 
+    animation-iteration-count: 1; 
+    animation-duration: 2s; 
+    color: black; 
+    transition: 2s; 
+    opacity: 1; 
+    font-size: 150px; 
+} 
+.a2:hover { 
+    color: blue; 
+}  
+.a3 {
+    animation-name: anima; 
+    animation-iteration-count: 1; 
+    animation-duration: 2s; 
+    color: black; 
+    transition: 2s; 
+    opacity: 1; 
+    font-size: 150px; 
+} 
+.a3:hover {
+    color: blue; 
+}  
+.a4 {
+    animation-name: anima; 
+    animation-iteration-count: 1; 
+    animation-duration: 2s; 
+    color: black; 
+    transition: 2s; 
+    opacity: 1; 
+    font-size: 150px; 
+} 
+.a4:hover { 
+    color: blue; 
+}  
+.nappi1 {
+    animation-name: anima; 
+    animation-duration: 2s; 
+    animation-iteration-count: 1; 
+    background-color: white; 
+    font-size: 150px; 
+    transition: 2s; 
+    border-radius: 36px; 
+    border-color: orange; 
+} 
+.nappi1:hover {
+    background-color: orange; 
+}  
+.linkki1 {
+    color: black; 
+}
+.nappi2 {
+    animation-name: anima; 
+    animation-duration: 2s; 
+    animation-iteration-count: 1; 
+    background-color: white; 
+    font-size: 150px; 
+    transition: 2s; 
+    border-radius: 36px; 
+    border-color: orange; 
+} 
+.nappi2:hover { 
+    background-color: orange; 
+}   
+.nappi3 {
+    animation-name: anima; 
+    animation-duration: 2s; 
+    animation-iteration-count: 1; 
+    background-color: white; 
+    font-size: 150px; 
+    transition: 2s; 
+    border-radius: 36px; 
+    border-color: orange; 
+} 
+.nappi3:hover {
+    background-color: orange; 
+}   
+.linkki2 {
+    color: black; 
+} 
+.a5 {
+    animation-name: anima; 
+    animation-iteration-count: 1; 
+    animation-duration: 2s; 
+    color: black; 
+    transition: 2s; 
+    opacity: 1; 
+    font-size: 150px; 
+} 
+.a5:hover {
+    color: blue; 
+}  
+.a6 {
+    animation-name: anima; 
+    animation-iteration-count: 1; 
+    animation-duration: 2s; 
+    color: black; 
+    transition: 2s; 
+    opacity: 1; 
+    font-size: 150px; 
+} 
+.a6:hover { 
+    color: blue; 
+}  
+.tausta2 {
+    background: green; 
+    width: 3000px; 
+    height: 500px; 
+} 
+.a7 {
+    animation-name: anima; 
+    animation-iteration-count: 1; 
+    animation-duration: 2s; 
+    color: black; 
+    transition: 2s; 
+    opacity: 1; 
+    font-size: 150px; 
+} 
+.a7:hover { 
+    color: blue; 
+}  
+.tausta3 {
+    background-color: black; 
+    width: 3000px; 
+    height: 500px; 
+} 
+.kuva1 {
+    height: 500px; 
+    width: 500px; 
+}
